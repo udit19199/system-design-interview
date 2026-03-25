@@ -1,4 +1,4 @@
-# system-design-interview-simulator
+# system-design-interview
 
 Mock system design interview skill for practice and feedback.
 
