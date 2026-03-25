@@ -5,7 +5,14 @@ Use this reference only for UI Mode of `system-design-interview-simulator`.
 ## Purpose
 
 Define reusable UI behaviors for a realistic mock system design interview experience. Prioritize
-flow clarity, interviewer realism, and clear candidate controls.
+flow clarity, interviewer realism, and clear candidate controls. Implement these behaviors in the
+`ui/` directory across separate HTML, CSS, and JavaScript files.
+
+## UI File Structure
+
+- `ui/index.html`: session setup, interview panels, and debrief containers
+- `ui/styles.css`: interactive states, controls, transcript bubbles, and mobile layout
+- `ui/app.js`: event handling, interview state, command actions, and debrief rendering
 
 ## Required UI Sections
 

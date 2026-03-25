@@ -4,8 +4,15 @@ Use this reference only for UI Mode of `system-design-interview-simulator`.
 
 ## Purpose
 
-Provide a clean, interview-focused visual system for a single-file HTML simulator. Keep the look
+Provide a clean, interview-focused visual system for a directory-based UI implementation. Build the
+interface in a dedicated `ui/` directory with separate HTML, CSS, and JavaScript files. Keep the look
 professional and practical: high contrast, intentional spacing, and no generic purple-gradient AI style.
+
+## UI File Structure
+
+- `ui/index.html`: semantic page structure and content regions
+- `ui/styles.css`: all layout, typography, color, and responsive styling
+- `ui/app.js`: state management, interactions, and transcript updates
 
 ## Design Tokens
 
