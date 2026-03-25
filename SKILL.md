@@ -1,5 +1,5 @@
 ---
-name: system-design-interview-simulator
+name: system-design-interview
 description: >
   Simulates a real system design technical interview. Use this skill whenever the user wants to
   practice system design interviews, be asked system design questions, get evaluated on their
